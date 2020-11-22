@@ -10,7 +10,7 @@ Doing analysis on stock price prediction would help me to know the future rates 
    
    [Reshaping the data](#reshaping-the-data)
    
-   [Model Training and accuracy/error/loss](#model-training)
+   [Model Training](#model-training)
    
        
  ## Architecture
@@ -38,7 +38,7 @@ Doing analysis on stock price prediction would help me to know the future rates 
  The new dataframe is created with only "Close" column and then converted it into numpy array. Later, the 80% of data is used for training the model. The trained data is then scaled before giving it to Neural Network Model. The scaled data is splitted into training data sets namely 'x_train' and 'y_train'.Both the training data sets are converted to numpy arrays. Since the LSTM model can take only three-dimensions, the data is reshaped into required format from two-dimension. 
     
     
- ## Model Training and accuracy/error/loss
+ ## Model Training
    
 •	Build the LSTM model: In order to increase the accuracy of the model, more LSTM layers are added.
 •	Compile the model: The model is compiled. Here, Optimizer is used to improve loss function which further determines the performance of the model on training.
