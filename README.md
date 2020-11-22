@@ -56,7 +56,7 @@ Doing analysis on stock price prediction would help me to know the future rates 
 
 •	Train the model: The model is trained using training data sets and setting an epoch.
 
-•	Reshaping the data: The Test data set is reshaped similar to the training dataset which is mentioned in the [Reshaping the data](#reshaping_the_data) above.
+•	Reshaping the data: The Test data set is reshaped similar to the training dataset which is mentioned in the [Reshaping the data](#reshaping-the-data) above.
 
 •	Prediction: Models Predicted stock value is achieved.
 
