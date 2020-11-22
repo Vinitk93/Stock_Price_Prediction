@@ -6,11 +6,11 @@ Doing analysis on stock price prediction would help me to know the future rates 
 
    [Architecture](#architecture)
    
-   [Importing Libraries](#importing libraries)
+   [Importing Libraries](#importing-libraries)
    
-   [Reshaping the data](#reshaping the data)
+   [Reshaping the data](#reshaping-the-data)
    
-   [Model Training and accuracy/error/loss](#model_training)
+   [Model Training and accuracy/error/loss](#model-training)
    
        
  ## Architecture
