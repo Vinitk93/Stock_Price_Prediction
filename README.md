@@ -41,9 +41,14 @@ Doing analysis on stock price prediction would help me to know the future rates 
  ## Model Training
    
 •	Build the LSTM model: In order to increase the accuracy of the model, more LSTM layers are added.
+
 •	Compile the model: The model is compiled. Here, Optimizer is used to improve loss function which further determines the performance of the model on training.
+
 •	Train the model: The model is trained using training data sets and setting an epoch.
+
 •	Reshaping the data: The Test data set is reshaped similar to the training dataset which is mentioned in the [Reshaping the data](#reshaping_the_data) above.
+
 •	Prediction: Models Predicted stock value is achieved.
+
 •	Evaluation: Model is evaluated using Root Mean Squared Error(RMSE).
  
