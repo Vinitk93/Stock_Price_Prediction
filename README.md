@@ -12,6 +12,8 @@ Doing analysis on stock price prediction would help me to know the future rates 
    
    [Model Training](#model-training)
    
+   [Tools](#tools)
+   
        
  ## Architecture
  
@@ -67,4 +69,8 @@ Doing analysis on stock price prediction would help me to know the future rates 
 •	Prediction: Models Predicted stock value is achieved.
 
 •	Evaluation: Model is evaluated using Root Mean Squared Error(RMSE).
+
+## Tools
+
+I have used Google Colab to run the whole code. It is comparitively faster and all the libraries are already installed.
  
