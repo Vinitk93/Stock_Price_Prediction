@@ -21,6 +21,7 @@ Doing analysis on stock price prediction would help me to know the future rates 
  4. The model is trained and tested using testing data.
  5. Model is pre-processed. The test data used is same as training data. 
  
+ 
  ## Importing Libraries
  
  One of the most popular programming languages for this task is Python. One of the main reason is its vast collection of libraries. Python libraries that are used in this project are:
@@ -33,11 +34,20 @@ Doing analysis on stock price prediction would help me to know the future rates 
 •	Matplotlib
 •	Tensorflow
 
+
  ## Reshaping the data
  
- The new dataframe is created with only "Close" column and then converted it into numpy array. Later, the 80% of data is used for training the model. The trained data is then scaled before giving it to Neural Network Model. The scaled data is splitted into training data sets namely 'x_train' and 'y_train'.Both the training data sets are converted to numpy arrays. Since the LSTM model can take only three-dimensions, the data is reshaped into required format from two-dimension. 
-    
-    
+•	The new dataframe is created with only "Close" column and then converted it into numpy array.
+
+•	Later, the 80% of data is used for training the model. 
+
+•	The trained data is then scaled before giving it to Neural Network Model.
+
+•	The scaled data is splitted into training data sets namely 'x_train' and 'y_train'.Both the training data sets are converted to numpy arrays.
+
+•	Since the LSTM model can take only three-dimensions, the data is reshaped into required format from two-dimensional array.
+
+        
  ## Model Training
    
 •	Build the LSTM model: In order to increase the accuracy of the model, more LSTM layers are added.
