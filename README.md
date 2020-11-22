@@ -11,6 +11,22 @@ Doing analysis on stock price prediction would help me to know the future rates 
     
  ## Tools
     hghghgh
+    jhbjkn
+    knk knnkj
+    
+    
+    
+    kbhujhbhbjk
+    
+    
+    jvjhbjjkbjkbkj
+    
+    
+    
+    hbgkbkbkbk
+    
+    
+    jkjbjkbkjbjbkbkb
     
  ## Use
     kfkkff
