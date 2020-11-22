@@ -27,11 +27,17 @@ Doing analysis on stock price prediction would help me to know the future rates 
  One of the most popular programming languages for this task is Python. One of the main reason is its vast collection of libraries. Python libraries that are used in this project are:
  
 •	Math
+
 •	Pandas
+
 •	Numpy
+
 •	Scikit-learn
+
 •	Keras
+
 •	Matplotlib
+
 •	Tensorflow
 
 
