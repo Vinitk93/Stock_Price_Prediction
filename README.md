@@ -6,6 +6,7 @@ Doing analysis on stock price prediction would help me to know the future rates 
 
 # TABLE OF CONTENTS
    [Tools](#tools)
+   
    [Use](#use)
     
  ## Tools
